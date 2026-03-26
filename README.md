@@ -1,4 +1,9 @@
-## Hi there 👋
+# Hi, I'm Johnny 👋
+
+I'm studying business finance and statistics, and I have a background in aviation and technical operations. 
+I'm learning Python and exploring automation tools to improve workflows in aviation maintenance and data analysis.
+
+This GitHub is where I’ll build small projects, scripts, and tools as I grow my skills.
 
 <!--
 **littleleeflyknife/littleleeflyknife** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
